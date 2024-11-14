@@ -1,0 +1,2 @@
+# brainrot
+please kill me
