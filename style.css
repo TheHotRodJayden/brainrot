@@ -1,0 +1,24 @@
+html {
+    background-color: aquamarine;
+}
+body {
+    background-color: lightgrey;
+    text-align: center;
+    background-image: url("https://jofficial.me/images/diddy.png");
+}
+h1 {
+    font-size: 2em;
+    border: 5px;
+    border-color: rgb(255, 255, 255);
+    border-style: dotted;
+    color: white;
+}
+p {
+    color: white;
+}
+h2 {
+    color: white;
+}
+h6 {
+    color: white;
+}
